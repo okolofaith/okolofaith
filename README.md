@@ -1,16 +1,16 @@
 ### Hi there 👋
+I am Okolo Faith, a female in tech. I am a  Google Certified User Experience Designer.
+I create user experiences and remove hitches off user's path whilst interacting with a product.
 
-<!--
-**okolofaith/okolofaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some cool UX projects.
+- 🌱 I’m currently learning the coding behind my designs i.e Advanced Javascript.
+- 👯 I’m looking to collaborate on more UX projects and basic coding fixes.
+- 💬 Ask me about anything UX, UI and Product Design.
+- 📫 How to reach me: 
+Send a mail to okolofaith4@gmail.com
+Also, send a message to me on LinkedIn :https://www.linkedin.com/in/faith-okolo/ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:  She/Her
+- ⚡ Fun fact: I love cleaning spaces and playing Volleyball
 -->
