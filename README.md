@@ -13,4 +13,3 @@ Also, send a message to me on LinkedIn :https://www.linkedin.com/in/faith-okolo/
 
 - 😄 Pronouns:  She/Her
 - ⚡ Fun fact: I love cleaning spaces and playing Volleyball
--->
