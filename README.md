@@ -3,8 +3,8 @@ I am Okolo Faith, a female in tech. I am a  Google Certified User Experience Des
 I create user experiences and remove hitches off user's path whilst interacting with a product.
 
 - 🔭 I’m currently working on some cool UX projects.
-- 🌱 I’m currently learning the coding behind my designs i.e Advanced Javascript.
-- 👯 I’m looking to collaborate on more UX projects and basic coding fixes.
+- 🌱 I’m currently learning sbout web3, AI and the coding behind my designs i.e Advanced Javascript.
+- 👯 I’m looking to collaborate on more UX projects.
 - 💬 Ask me about anything UX, UI and Product Design.
 - 📫 How to reach me: 
 Send a mail to okolofaith4@gmail.com
