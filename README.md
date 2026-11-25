@@ -7,15 +7,15 @@ Now I take ideas from research/sketch → prototype → working code.
 
 ## 🛠 What I'm building
 | Project | What it does | Built with |
-|---|---|---|
-| [28 days Bible Study Plan](link) | Build a consistent stuying habit | e.g. Claude |
+
+[28 days Bible Study Plan]([https://okolofaith.github.io/renew-bible-study]| Build a consistent stuying habit | e.g. Claude |
 
 
 ## 🎯 Design work I'm proud of and their live links 
-- **Bluedotbook** (Property Management SaaS):https://bluedotbook.com/
+- **Bluedotbook** (Property Management SaaS): https://bluedotbook.com/
 - **Entrova**: https://www.entrova.co/
 - **Mently** (mentoring): https://mymently.com/
-- **Rentango* (rental/shortlet): https://rentangoafrica.com/
+- **Rentango Africa** (rental/shortlet): https://rentangoafrica.com/
 
 See Case studies on past projects → [https://www.behance.net/okolofaith]
 
