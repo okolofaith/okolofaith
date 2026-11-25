@@ -1,6 +1,6 @@
 # Hi, I'm Faith 👋
 
-**AI Product Designer & Builder.** I design products and build working versions of them with AI.
+**AI Product Designer & Builder.** I design products and build working product prototypes with AI.
 
 4 years designing products across SaaS, fintech, healthtech and EdTech: web, iOS and Android, B2B and B2C.
 Now I take ideas from research/sketch → prototype → working code.
