@@ -8,7 +8,7 @@ Now I take ideas from research/sketch → prototype → working code.
 ## 🛠 What I'm building
 | Project | What it does | Built with |
 
-[28 days Bible Study Plan]([https://okolofaith.github.io/renew-bible-study]| Build a consistent stuying habit | e.g. Claude |
+[28 days Bible Study Plan][https://okolofaith.github.io/renew-bible-study]| Build a consistent stuying habit | e.g. Claude |
 
 
 ## 🎯 Design work I'm proud of and their live links 
@@ -21,6 +21,6 @@ See Case studies on past projects → [https://www.behance.net/okolofaith]
 
 
 ## 📫 Reach me
-[Email](wa.me/+23491546835) · [LinkedIn](https://www.linkedin.com/in/faith-okolo/)
+[Email](wa.me/+2349157546835) · [LinkedIn](https://www.linkedin.com/in/faith-okolo/)
 
 😄 She/her · 🏐 Volleyball, travel, and time with friends and family
