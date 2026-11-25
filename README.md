@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Faith 👋
 
-<!--
-**okolofaith/okolofaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Designer & Builder.** I design products and build working versions of them with AI.
 
-Here are some ideas to get you started:
+4 years designing 15+ products across SaaS, fintech, healthtech and EdTech: web, iOS and Android, B2B and B2C.
+Now I take ideas from research/sketch → prototype → working code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I'm building
+| Project | What it does | Built with |
+|---|---|---|
+| [28 days Bible Study Plan](link) | Build a consistent stuying habit | e.g. Claude |
+
+
+## 🎯 Design work I'm proud of and their live links 
+- **Bluedotbook** (Property Management SaaS):https://bluedotbook.com/
+- **Entrova**: https://www.entrova.co/
+- **Mently** (mentoring): https://mymently.com/
+- **Rentango* (rental/shortlet): https://rentangoafrica.com/
+
+See Case studies on past projects → [https://www.behance.net/okolofaith]
+
+
+## 📫 Reach me
+[Email](wa.me/+23491546835) · [LinkedIn](https://www.linkedin.com/in/faith-okolo/)
+
+😄 She/her · 🏐 Volleyball, travel, and time with friends and family
